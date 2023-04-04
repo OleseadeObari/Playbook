@@ -1,0 +1,90 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* .header,
+.headline {
+  margin: 20px;
+  text-align: center;
+}
+.empty {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  transition: 2s;
+}
+.empty p {
+  display: block;
+}
+.empty:hover {
+  width: 300px;
+  display: block;
+  font-size: 20px;
+}
+.empty p:hover {
+  display: block;
+  font-size: 28px;
+  color: white;
+} */
+.tweet-profile {
+  background-color: rgb(203, 199, 199);
+  display: flex;
+  width: 23rem;
+}
+.profile {
+  
+}
+.box{
+   background-color: rgb(174, 170, 170);
+  padding: 10px;
+  border-radius: 20px;
+  margin-top: 10px;
+}
+
+
+.tweet-writeup{
+   margin-top: 5px;
+  margin-left: 10px;
+}
+.tweet-header span{
+  font-size: 15px;
+  color: rgb(174, 170, 170);
+}
+.tweet-subhead{
+  padding: 5px 0;
+}
+.tweet-link{
+  background-color: rgb(249, 248, 248);
+  border-radius: 10px;
+   border: 1px solid rgb(174, 170, 170);
+  display: flex;
+   width: 315px;
+
+}
+.box1{
+  border-radius: 10px 0 0 10px ;
+  background-color: rgb(174, 170, 170);
+  /* border: 2px solid rgb(219, 216, 216); */
+  padding-right: 50px;
+  /* margin-right: 10px; */
+ 
+}
+.tweet-link{
+   margin-bottom: 10px;
+}
+.box2-contents a{
+  /* padding: 10px 5px 0; */
+  text-decoration: none;
+  color:  rgb(174, 170, 170);;;
+}.box2-contents{
+  padding-left: 10px;
+  
+}
+.box2-contents p,  span{
+   font-size: 14px;
+  font-weight: 600;
+}
